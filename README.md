@@ -1,5 +1,4 @@
-Kardinalen
-==========
+server
+======
 
-Slemun er NICe!
-Fucking Nice!
+Exam Project
